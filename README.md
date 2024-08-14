@@ -46,4 +46,4 @@ IP (Intellectual Property) Core is used to provide pre-designed, reusable logic 
 
 ![Screenshot (497)](https://github.com/user-attachments/assets/0fdd6b2c-1c7b-463e-b282-20596442735e)
 
-#### + That's it you've made design and synthesized it, without coding your design source file.
+#### + That's it you've made your design and synthesized it, without coding your design source file.
