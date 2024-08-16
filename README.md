@@ -5,7 +5,7 @@ IP (Intellectual Property) Core is used to provide pre-designed, reusable logic 
 
 ### Here, I have generated an IP core for a 4 bit adder
 
-### Steps
+### Steps : 
 
 
 #### + Create a design source file, name it, assign ports for input and outputs.
@@ -36,7 +36,7 @@ IP (Intellectual Property) Core is used to provide pre-designed, reusable logic 
 
 #### + Under Sources tab, click '+' to add a new source, click "Add/Create simulation sources", then click "Create file", give it a name, ok and then finish.
 
-#### + Under Simulation sources your testbench file will be present, open it and code the testbench.
+#### + Under Simulation sources your empty testbench file will be present, open it and code the testbench, if you dont know how to code, I've attached a testbench file above. After coding, save it then proceed.
 
 #### + Click "run simulation" and you can view the output waveform, verify it with all your constaints.
 
