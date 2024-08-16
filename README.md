@@ -3,7 +3,7 @@ IP (Intellectual Property) Core is used to provide pre-designed, reusable logic 
 
 # IP Core generation using Xilinx Vivado
 
-### Here, I have generated an IP core for a 4 bit adder
+### Here, I have generated an IP core for a 4 bit adder, kindly learn how a 4-bit adder works in prerequisite.
 
 ### Steps : 
 
