@@ -8,7 +8,7 @@ IP (Intellectual Property) Core is used to provide pre-designed, reusable logic 
 ### Steps : 
 
 
-#### + Create a design source file, name it, assign ports for input and outputs.
+#### + Create a design source file, name it, assign ports for input and outputs. Here I had two bus inputs of 4 bits each, along with a clock. (Clock is optional)
 #### + Navigate into your design file, now to the right most of  pane, select an option called IP Catalog.
 #### + Since I am doing an adder,type and search "adder" in the search bar.
 #### + Select "Adder/Subtractor", under the basic division, you can customize your core for specific application, I gave unsigned for both operands of my adders in the input type.
