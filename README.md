@@ -42,6 +42,8 @@ IP (Intellectual Property) Core is used to provide pre-designed, reusable logic 
 
 ![Screenshot (496)](https://github.com/user-attachments/assets/40cf0abf-2a8a-4f62-af2a-14975d8b4f4e)
 
+#### Any queries contant : vishal2020vvk@gmail.com
+
 #### + Click 'run synthesis', once synthesized, click 'open synthesized design' to view your synthesized design.
 
 ![Screenshot (497)](https://github.com/user-attachments/assets/0fdd6b2c-1c7b-463e-b282-20596442735e)
