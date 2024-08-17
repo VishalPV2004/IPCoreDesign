@@ -49,4 +49,3 @@ IP (Intellectual Property) Core is used to provide pre-designed, reusable logic 
 #### + That's it you've made your design and synthesized it, without coding your design source file.
 
 
-#### Any queries contant : vishal2020vvk@gmail.com
